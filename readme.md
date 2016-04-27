@@ -1,0 +1,2 @@
+# SignalR Chat #
+This is a simple chat web application based on the [Asp.net SignalRChat Tutorial](https://www.asp.net/signalr/overview/getting-started/tutorial-getting-started-with-signalr) using SignalR
